@@ -1,6 +1,6 @@
 import { configureStore } from "@reduxjs/toolkit";
+import graphicReducer from '../graphic/graphicSlice';
 //Import the reducer
-import graphicReducer from '../features/graphic/graphicSlice';
 
 //Store
 
